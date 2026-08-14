@@ -1,18 +1,61 @@
-========================================================
-GHOSTDRIVE GLOBAL & MTC ECOSYSTEM - BIZNESPLAN
-========================================================
-1. HUB I INTEGRACJA PLATFORM
+====================================================================
+GHOSTDRIVE GLOBAL & MTC ECOSYSTEM - KOMPLEKSOWY BIZNESPLAN OPERACYJNY
+====================================================================
+
+1. WPROWADZENIE I ZAŁOŻENIA STRATEGICZNE
 - Oficjalny Hub Webnode: https://ghostdrive-5ujzn1.webnode.page
-- Serwis Drop: https://mkdrop.pl
-- Architekt: MicroTechCorp (Daniel Leśniak)
-- Zasięg: Globalny model operacyjny (192 kraje).
+- Serwis Drop & Sklep: https://mkdrop.pl
+- Architekt i Właściciel: MicroTechCorp (Daniel Leśniak)
+- Zasięg globalny: Model operacyjny obejmujący 192 kraje, oparty na strukturze Master Licensee, Zaufanych Rezydentów oraz Fleet Licensee.
 
-2. STRUKTURA MODUŁÓW
-- Zarządzanie flotą, telemetria oraz koparka MK-Ghost.
-- API Pharmacy Connect oraz MK Kropelka.
-- Obsługa dóbr luksusowych i handlu.
+2. STRUKTURA MODUŁÓW I ARCHITEKTURA SYSTEMU (~/ghostdrive-hub)
+- /core      -> Główny system zarządzania flotą, telemetrią oraz rozliczaniem kosztów (KUP).
+- /mining    -> Moduł koparki i tokenizacji MK-Ghost (generowanie tokenów w trasie oraz na postoju).
+- /logistics -> API Pharmacy Connect oraz MK Kropelka (geofencing medyczny i kurierski).
+- /marketplace -> Globalna platforma handlowo-aukcyjna dóbr luksusowych i nieruchomości.
+- /config    -> Pliki konfiguracyjne systemów (hub-spec.json).
+- /docs      -> Pełna dokumentacja operacyjna, prawna i biznesplan.
 
-3. PARTNERZY STRATEGICZNI
-- Motoryzacja: Mercedes-Benz, BMW, Audi, Rolls-Royce, Bentley, Ferrari, Lamborghini, Maserati.
-- Finanse / Leasing: PKO Leasing, mLeasing, Santander, BNP Paribas, ING, Deutsche Bank.
-- Lifestyle / Luksus: Rolex, Patek Philippe, Hugo Boss, Lacoste, Armani, Versace, Sotheby’s, Christie’s.
+3. FLOTA POJAZDÓW I SEGMENT PREMIUM (GHOSTDRIVE EDITION)
+- Segment Luksusowy (Flota bazowa): Mercedes-Benz, BMW, Audi, Rolls-Royce, Bentley, Ferrari, Lamborghini, Maserati.
+- Personalizacja i wyposażenie wozów: Skórzane fotele z logo GhostDrive, systemy chłodzenia napojów, woda luksusowa, selekcja alkoholi oraz medyczna strefa konopna (Pharmacy Connect).
+
+4. GLOBALNY MARKETPLACE VIP
+- Nieruchomości i Rezydencje: Ekskluzywne penthousy, hotele, wieżowce oraz wyspy w globalnych lokalizacjach (np. Dubay Marina).
+- Jachty i Posesje: Luksusowe jednostki pływające i prywatne vHuby.
+- Biżuteria, Zegarki i Moda: Rolex, Hublot, Patek Philippe, Hugo Boss, Lacoste, Versace, Philipp Plein.
+
+5. INTEGRACJA FINANSOWA I KRYPTOWALUTOWE WEB3
+- Partnerzy finansowi i leasingowi: PKO Leasing, mLeasing, Santander, BNP Paribas, ING, Deutsche Bank.
+- Płatności Crypto: Bezpośrednia integracja portfeli (MetaMask / WalletConnect) umożliwiająca natychmiastowe rozliczenia w USDT oraz tokenach ekosystemu MTC za przejazdy oraz dobra luksusowe z Marketplace.
+cat << 'EOF' > ~/ghostdrive-hub/caly_biznesplan.txt
+========================================================
+GHOSTDRIVE GLOBAL & MTC ECOSYSTEM - KOMPLEKSOWY BIZNESPLAN I STRUKTURA
+========================================================
+
+1. INFORMACJE OGÓLNE I INTEGRACJA PLATFORM
+- Oficjalny Hub Webnode: https://ghostdrive-5ujzn1.webnode.page[span_0](start_span)[span_0](end_span)
+- Serwis Drop/Sklep: https://mkdrop.pl
+- Właściciel / Architekt: MicroTechCorp (Daniel Leśniak)
+- Zasięg operacyjny: Model globalny (192 kraje) z podziałem na Master Licensee, Zaufanych Rezydentów oraz Fleet Licensee[span_1](start_span)[span_1](end_span).
+
+2. STRUKTURA FOLDERÓW I PLIKÓW W PROJEKCIE (~/ghostdrive-hub)
+- /core      -> Główny silnik zarządzania flotą i systemem telemetrycznym[span_2](start_span)[span_2](end_span).
+- /mining    -> Moduł koparki MK-Ghost (generowanie tokenów w trasie i postoju)[span_3](start_span)[span_3](end_span).
+- /logistics -> API Pharmacy Connect oraz MK Kropelka (kurierzy medyczni i dystrybucja)[span_4](start_span)[span_4](end_span).
+- /marketplace -> Obsługa dóbr luksusowych, domów aukcyjnych i handlu[span_5](start_span)[span_5](end_span).
+- /config    -> Pliki konfiguracyjne systemów (hub-spec.json)[span_6](start_span)[span_6](end_span).
+- /docs      -> Pełna dokumentacja operacyjna i prawna[span_7](start_span)[span_7](end_span).
+
+3. FLOTA I PARTNERZY STRATEGICZNI
+- Segment Motoryzacyjny (GhostDrive Edition): Mercedes-Benz, BMW, Audi, Rolls-Royce, Bentley, Ferrari, Lamborghini, Maserati[span_8](start_span)[span_8](end_span).
+- Segment Finansowy / Leasingowy: PKO Leasing, mLeasing, Santander, BNP Paribas, ING, Deutsche Bank[span_9](start_span)[span_9](end_span).
+- Segment Lifestyle & Marketplace: Rolex, Patek Philippe, Hugo Boss, Lacoste, Armani, Versace, Sotheby’s, Christie’s[span_10](start_span)[span_10](end_span).
+
+4. MODEL BIZNESOWY I OPERACYJNY
+- Luksusowy transport VIP zintegrowany z mobilnym kopaniem kryptowalut (MK-Ghost zasilany z akumulatorów/alternatora)[span_11](start_span)[span_11](end_span).
+- Automatyczne rozliczanie kosztów paliwa/energii i przebiegu jako koszty uzyskania przychodu bezpośrednio w Hubie[span_12](start_span)[span_12](end_span).
+- Połączenie logistyki farmaceutycznej (Pharmacy Connect) z szybkim transportem miejskim[span_13](start_span)[span_13](end_span).
+EOF
+
+echo "[+] Stworzono plik ze wszystkimi ustaleniami: ~/ghostdrive-hub/caly_biznesplan.txt"
