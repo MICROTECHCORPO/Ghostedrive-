@@ -1,0 +1,15 @@
+{
+  "system": "GhostDrive Global",
+  "version": "2026.08",
+  "webnode_hub": "https://ghostdrive-5ujzn1.webnode.page",
+  "drop_service": "https://mkdrop.pl",
+  "modules": {
+    "fleet_core": "active",
+    "mining_node": "MK-Ghost",
+    "logistics_api": ["Pharmacy Connect", "MK Kropelka"]
+  },
+  "licensing": {
+    "type": "Independent Licensee Model",
+    "territories": "192 countries"
+  }
+}

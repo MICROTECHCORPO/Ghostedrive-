@@ -1,0 +1,18 @@
+========================================================
+GHOSTDRIVE GLOBAL & MTC ECOSYSTEM - BIZNESPLAN
+========================================================
+1. HUB I INTEGRACJA PLATFORM
+- Oficjalny Hub Webnode: https://ghostdrive-5ujzn1.webnode.page
+- Serwis Drop: https://mkdrop.pl
+- Architekt: MicroTechCorp (Daniel Leśniak)
+- Zasięg: Globalny model operacyjny (192 kraje).
+
+2. STRUKTURA MODUŁÓW
+- Zarządzanie flotą, telemetria oraz koparka MK-Ghost.
+- API Pharmacy Connect oraz MK Kropelka.
+- Obsługa dóbr luksusowych i handlu.
+
+3. PARTNERZY STRATEGICZNI
+- Motoryzacja: Mercedes-Benz, BMW, Audi, Rolls-Royce, Bentley, Ferrari, Lamborghini, Maserati.
+- Finanse / Leasing: PKO Leasing, mLeasing, Santander, BNP Paribas, ING, Deutsche Bank.
+- Lifestyle / Luksus: Rolex, Patek Philippe, Hugo Boss, Lacoste, Armani, Versace, Sotheby’s, Christie’s.
