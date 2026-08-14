@@ -35,3 +35,4 @@ GHOSTDRIVE GLOBAL & MTC ECOSYSTEM – MASTER PLAN OPERACYJNY
 ​6. ZASADY PROTOKOŁU "CICHY KLADOV"
 ​Selekcja: Szukamy partnerów typu „decyzja-podpis-działanie”. Osoby szukające bezpiecznego etatu nie są częścią ekosystemu.
 ​Bezpieczeństwo: Każdy Rezydent odpowiada za swój kraj. Holding MTC jest chroniony przed ryzykiem finansowym partnerów.
+<img width="512" height="279" alt="1000000689" src="https://github.com/user-attachments/assets/ed85b81f-7ee7-460c-a5d9-47c61f2c64ee" />
